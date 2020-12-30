@@ -1,5 +1,5 @@
 [package]
-name = "calc-sample-cli"
+name = "rpncalc"
 version = "0.1.0"
 authors = ["ShowGoTagami <whitenotesfor@gmail.com>"]
 edition = "2018"
